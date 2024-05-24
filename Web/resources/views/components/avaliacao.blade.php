@@ -5,14 +5,13 @@
     </head>
     <body>
         
-    <nav>
-        <h3>Bem vindo</h3>
-        <hr>
-    </nav>
+   
     {{$slot}}
     <footer>
         <hr/>
-        Felipe
+       
+        2024
     </footer>
     </body>
 </html>
+
